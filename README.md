@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kangnur
-- 👀 Co Founder in Bayam Development
+- 👀 I'm Freelancer on Feverr
 - 🌱 I’m currently learning Laravel 8
-- 💞️ I’m looking to collaborate on Kadek Surya
 - 📫 How to reach me http://t.me/kangnur_id
 
 <!---
